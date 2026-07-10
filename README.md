@@ -296,7 +296,7 @@ The implementation has been organized, documented, and enhanced for learning and
 
 GitHub: https://github.com/SonjeVilas
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: [*(Add your LinkedIn profile here)*](https://www.linkedin.com/in/vilassonje/)
 
 ---
 
