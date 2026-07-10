@@ -176,11 +176,11 @@ Dashboard Features:
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Revenue Dashboard
 
-```markdown
-![Dashboard](Screenshots/Revenue_Dashboard.png)
-```
+<p align="center">
+  <img src="Screenshots/Streamlit App Demo/1.Revenue_Dashboard.png" width="900">
+</p>
 
 ---
 
