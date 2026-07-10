@@ -102,7 +102,7 @@ Dimension Tables:
 ## ⭐ Star Schema
 
 <p align="center">
-  <img src="Architecture/Revenue%20Dashboard%20ER%20Diagram.png" alt="Star Schema" width="600"/>
+  <img src="Architecture/Revenue%20Dashboard%20ER%20Diagram.png" alt="Star Schema" height="600" width="1000"/>
 </p>
 
 ---
