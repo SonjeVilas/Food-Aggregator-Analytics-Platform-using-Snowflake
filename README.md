@@ -179,7 +179,7 @@ Dashboard Features:
 ## 📊 Revenue Dashboard
 
 <p align="center">
-  <img src="Screenshots/Streamlit App Demo/1.Revenue_Dashboard.png" height="600" width="800">
+  <img src="Screenshots/Streamlit App Demo/1.Revenue_Dashboard.png" height="500" width="900">
 </p>
 
 ---
