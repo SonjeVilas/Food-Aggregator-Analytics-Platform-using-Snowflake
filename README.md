@@ -99,11 +99,11 @@ Dimension Tables:
 
 ---
 
-## 📷 Star Schema
+## ⭐ Star Schema
 
-```markdown
-![Star Schema](Architecture/Revenue%20Dashboard%20ER%20Diagram.png)
-```
+<p align="center">
+<img src="Architecture/star-schema-er-diagram.png" width="1000">
+</p>
 
 ---
 
