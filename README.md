@@ -71,15 +71,11 @@ Streamlit Dashboard
 
 ---
 
-## 📷 Architecture Diagram
+## 🏗️ Project Architecture
 
-> **Architecture/Data Flow Architecture.png**
-
-(Add your architecture image here after uploading)
-
-```markdown
-![Architecture](Architecture/Data%20Flow%20Architecture.png)
-```
+<p align="center">
+  <img src="Architecture/Data%20Flow%20Architecture.png" alt="Project Architecture" width="1000"/>
+</p>
 
 ---
 
