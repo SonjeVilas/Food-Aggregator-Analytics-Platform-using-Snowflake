@@ -74,7 +74,7 @@ Streamlit Dashboard
 ## 🏗️ Project Architecture
 
 <p align="center">
-  <img src="Architecture/Data%20Flow%20Architecture.png" alt="Project Architecture" width="1000"/>
+  <img src="Architecture/Data%20Flow%20Architecture.png" alt="Project Architecture" width="800"/>
 </p>
 
 ---
